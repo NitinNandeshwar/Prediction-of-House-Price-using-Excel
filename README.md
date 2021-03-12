@@ -27,7 +27,7 @@ Fig: Plotting the Regressed Values against the Actual Values to understand the d
 
 ![Figure 4](Images/summary_LR_Anova.PNG)
 
-![Figure 5](Images/summary_LR_Coefficients.PNG)
+![Figure 5](Images/summary_LR_Coefficents.PNG)
 
 - Using the above linear regression model, predict the prices of the houses sold in the year 2017. Interpret your findings from the model.
 
