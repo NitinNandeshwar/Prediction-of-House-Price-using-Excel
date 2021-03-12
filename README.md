@@ -4,7 +4,7 @@ In this project, we are going to look at a number of houses sold in the year 201
 
 You are expected to use the data of the year 2016 to create a regression model where the price is the dependent variable. Identify the factors that are the driving factors for house prices. Using the model, you are expected to predict the selling prices of the houses sold in 2017.
 
-** Tasks: **
+**Tasks:**
 
 - Create an excel report that contains all the meaningful information such as relevant charts, pivot tables etc.
 - Create a few hypothesis around the important variables and validate them using the data
