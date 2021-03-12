@@ -9,7 +9,6 @@ You are expected to use the data of the year 2016 to create a regression model w
 - Create an excel report that contains all the meaningful information such as relevant charts, pivot tables etc.
 - Create a few hypothesis around the important variables and validate them using the data
 - Mention all the variable which are highly correlated.
--->
 
 ![Figure 1](Images/High_Correlation.PNG)
 
@@ -24,11 +23,11 @@ Fig: Plotting the Regressed Values against the Actual Values to understand the d
 
 **Summary**
 
-![Figure 3](Images/Summary_LR.PNG)
+![Figure 3](Images/summary_LR.PNG)
 
-![Figure 4](Images/Summary_LR_Anova.PNG)
+![Figure 4](Images/summary_LR_Anova.PNG)
 
-![Figure 5](Images/Summary_LR_Coefficients.PNG)
+![Figure 5](Images/summary_LR_Coefficients.PNG)
 
 - Using the above linear regression model, predict the prices of the houses sold in the year 2017. Interpret your findings from the model.
 
