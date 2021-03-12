@@ -17,7 +17,7 @@ Fig: Top 10 Variables which are highly correlated with the Price Variable (Targe
 
 - Build a linear regression model on the data of year 2016. Predict the price for year 2016 using this regression model, plot the regressed values against the actual values to understand the difference.
  
-![Figure 2](Images/Chart1.crtx)
+![Figure 2](Images/Chart1.PNG)
 
 Fig: Plotting the Regressed Values against the Actual Values to understand the difference.
 
@@ -31,7 +31,7 @@ Fig: Plotting the Regressed Values against the Actual Values to understand the d
 
 - Using the above linear regression model, predict the prices of the houses sold in the year 2017. Interpret your findings from the model.
 
-![Figure 6](Images/Chart2.crtx)
+![Figure 6](Images/Chart2.PNG)
 
 Fig: Plotting the Residuals (Actual Value – Predicted Value) to understand the difference.
 
